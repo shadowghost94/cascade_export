@@ -17,7 +17,7 @@
 		</header> <br> <br><br><br><br><br>
 		<h1 class="premier">about us</h1>
 		<p>oui, vous allez me dire qu'au final le résultat (visuel) est le même. je suis tout à fait d'accord. mais les balises génériques n'apportent aucun sens à la page et ne peuvent pas être comprises par l'ordinateur. utilisez toujours d'autres balises plus adaptées quand c'est possible. google lui-même le conseille pour vous aider à améliorer la position de vos pages au sein de ses résultats de recherche ! oui, vous allez me dire qu'au final le résultat (visuel) est le même. je suis tout à fait d'accord. mais les balises génériques n'apportent aucun sens à la page et ne peuvent pas être comprises par l'ordinateur. utilisez toujours d'autres balises plus adaptées quand c'est possible. google lui-même le conseille pour vous aider à améliorer la position de vos pages au sein de ses résultats de recherche !</p><br><br><br>
-	
+
 		<nav class="navfirst">
 			<h5>management:</h5><br>
 			<div class="horloge">

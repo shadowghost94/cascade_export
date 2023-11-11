@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<link rel="stylesheet" type="text/css" href="video.css">
+		<link rel="stylesheet" type="text/css" href="media.css">
 		<title>MEDIA</title>
 	</head>
 
@@ -18,14 +18,13 @@
 		<table style="border-collapse: collapse; margin-left: 20%; margin-right: 20%;">
 			<tr>
 				<td style="border: 1px white solid; height: 45px; width: 160px;"><a href="">news</a></td>
-				<td style="border: 1px white solid;  height: 45px; width: 160px;"><a href="">videos</a></td>
+				<td style="border: 1px white solid;  height: 45px; width: 160px;"><a href="videos.html">videos</a></td>
 				<td style="border: 1px white solid;  height: 45px; width: 160px;"><a href="">streams</a></td>
 				<td style="border: 1px white solid; height: 45px; width: 160px;"><a href="">guidelines</a></td>
 			</tr>
 		</table><br><br><br><br><br><br><br><br>
-		<img class="zaky" src="image/autres/zaky.jpg">
-		<img class="gamer" src="image/autres/gamer.png">
-		<img class="zara" src="image/autres/zara.jpg">
+		<img class="image1" src="image/autres/image1.jpg">
+		<img class="image2" src="image/autres/image2.jpg">
 	<footer class="footer">
 		<div class="encadre">
 

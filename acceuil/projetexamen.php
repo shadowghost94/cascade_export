@@ -3,26 +3,37 @@
 
 	<head>
 		<meta charset="utf-8">
-		<link rel="stylesheet" type="text/css" href="team.css">
-		<title>TEAMS</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="exam.css">
+		<title>CASCADE</title>
 	</head>
 
 	<body>
-		<header class="tete"><br>
+		<header class="header"><br>
 			<a href="projetexamen.html"><img src="image/autres/logo.png"></a>
 			<a href="pageabout.html">ABOUT</a>
 			<a href="teams.html">TEAMS</a>
 			<a href="partners.html">PARTNERS</a>
 			<a href="medias.html">MEDIA</a>
 		</header> <br> <br><br><br><br><br>
-			<h4>cascade exports teams:</h4><br><br><br><br>
-			<div class="forge">
-				<img class="starcraf" src="image/autres/starcraft.png">
-			</div>
-			<div class="forger">
-				<img class="dota" src="image/autres/dota.png">
-			</div>
-		<footer class="footer">
+		<div>
+		<img class="first" src="image/autres/cascadeexport.jpg">
+		<img class="lart" src="image/autres/monart.png">
+		<p><img class="dernier" src="image/autres/dernier.gif"></p>
+		<p>
+			<img class="image1" src="image/autres/image1.jpg">
+			<img class="image2" src="image/autres/image2.jpg">
+		</p>
+		</div>
+		<p>
+			<img class="starcraft" src="image/autres/starcraft.png">
+			<img class="demon" src="image/autres/demon.jpg">
+		</p>
+
+
+	</body>
+
+	<footer class="footer">
 		<div class="encadre">
 
 			<div class="navigation">
@@ -44,7 +55,5 @@
 
 
 	</footer>
-
-	</body>
 
 </html>
