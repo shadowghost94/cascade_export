@@ -3,20 +3,20 @@
 
 	<head>
 		<meta charset="utf-8">
-		<link rel="stylesheet" type="text/css" href="partner.css">
+		<link rel="stylesheet" type="text/css" href="../assets/css/partner.css">
 		<title>PARTNER</title>
 	</head>
 
-	<body>
+	<body style="background-image:url(../assets/image/background.jpg)">
 		<header class="tete"><br>
-			<a href="projetexamen.html"><img src="image/autres/logo.png"></a>
-			<a href="pageabout.html">ABOUT</a>
-			<a href="teams.html">TEAMS</a>
-			<a href="partners.html">PARTNERS</a>
-			<a href="medias.html">MEDIA</a>
+			<a href="../acceuil/projetexamen.php"><img src="../assets/image/logo.png"></a>
+			<a href="../pageabout/pageabout.php">ABOUT</a>
+			<a href="../teams/teams.php">TEAMS</a>
+			<a href="../partners/partners.php">PARTNERS</a>
+			<a href="../medias/medias.php">MEDIA</a>
 		</header> <br> <br><br><br><br><br>
 		<h3>cascade exports partners:</h3><br><br><br><br>
-		<img class="betwhite" src="image/autres/betwhite.png">
+		<img class="betwhite" src="../assets/image/betwhite.png">
 		<p class="betwhit">winner of the best Exports betting operator 2020 by SBC Betting Awards. 1xbet is your home of the esports betting!</p><br><br><br><br><br><br>
 		<div class="website"><br>
 			<a href="">VISIT WEBSITE</a>
@@ -35,7 +35,7 @@
 			</div>
 
 			<div class="entreeux">
-				<img class="boss" src="image/autres/logo.png">
+				<img class="boss" src="../assets/image/logo.png">
 				<p class="exports">CASCADE EXPORTS </p>
 			</div>
 

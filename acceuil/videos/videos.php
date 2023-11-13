@@ -3,28 +3,29 @@
 
 	<head>
 		<meta charset="utf-8">
-		<link rel="stylesheet" type="text/css" href="media.css">
+		<link rel="stylesheet" type="text/css" href="../assets/css/video.css">
 		<title>MEDIA</title>
 	</head>
 
-	<body>
+	<body style="background-image: url(../assets/image/background.jpg)">
 		<header class="tete"><br>
-			<a href="projetexamen.html"><img src="image/autres/logo.png"></a>
-			<a href="pageabout.html">ABOUT</a>
-			<a href="teams.html">TEAMS</a>
-			<a href="partners.html">PARTNERS</a>
-			<a href="medias.html">MEDIA</a>
+			<a href="../acceuil/projetexamen.php"><img src="../assets/image/logo.png"></a>
+			<a href="../pageabout/pageabout.php">ABOUT</a>
+			<a href="../teams/teams.php">TEAMS</a>
+			<a href="../partners/partners.php">PARTNERS</a>
+			<a href="../medias/medias.php">MEDIA</a>
 		</header><br><br><br><br><br><br><br><br>
 		<table style="border-collapse: collapse; margin-left: 20%; margin-right: 20%;">
 			<tr>
 				<td style="border: 1px white solid; height: 45px; width: 160px;"><a href="">news</a></td>
-				<td style="border: 1px white solid;  height: 45px; width: 160px;"><a href="videos.html">videos</a></td>
+				<td style="border: 1px white solid;  height: 45px; width: 160px;"><a href="">videos</a></td>
 				<td style="border: 1px white solid;  height: 45px; width: 160px;"><a href="">streams</a></td>
 				<td style="border: 1px white solid; height: 45px; width: 160px;"><a href="">guidelines</a></td>
 			</tr>
 		</table><br><br><br><br><br><br><br><br>
-		<img class="image1" src="image/autres/image1.jpg">
-		<img class="image2" src="image/autres/image2.jpg">
+		<img class="zaky" src="../assets/image/zaky.jpg">
+		<img class="gamer" src="../assets/image/gamer.png">
+		<img class="zara" src="../assets/image/zara.jpg">
 	<footer class="footer">
 		<div class="encadre">
 
@@ -34,7 +35,7 @@
 			</div>
 
 			<div class="entreeux">
-				<img class="boss" src="image/autres/logo.png">
+				<img class="boss" src="../assets/image/logo.png">
 				<p class="exports">CASCADE EXPORTS </p>
 			</div>
 
